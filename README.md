@@ -96,10 +96,10 @@
 
 ---
 
-### 🐍 Snake de Contribuciones
+### 📈 Actividad y Contribuciones
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Scott-Ramirez/Scott-Ramirez/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Scott-Ramirez&theme=tokyo-night&bg_color=05070e&color=06b6d4&line=10b981&point=06b6d4&area=true&hide_border=true" width="100%" alt="Gráfico Dinámico de Contribuciones" />
 </div>
 
 ---
@@ -107,20 +107,10 @@
 ### 📊 Métricas de GitHub
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Scott-Ramirez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=05070e&title_color=06b6d4&icon_color=10b981&text_color=cbd5e1" alt="Estadísticas de GitHub" />
-      </td>
-      <td>
-        <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scott-Ramirez&layout=compact&theme=tokyonight&hide_border=true&bg_color=05070e&title_color=06b6d4&text_color=cbd5e1" alt="Lenguajes más usados" />
-      </td>
-    </tr>
-  </table>
 
-  <br />
-
+  <!-- Racha Actual -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Scott-Ramirez&theme=tokyonight&hide_border=true&background=05070e&ring=06b6d4&fire=10b981&currStreakLabel=06b6d4" alt="GitHub Streak" />
+
 </div>
 
 ---
