@@ -96,21 +96,26 @@
 
 ---
 
-### 📈 Actividad y Contribuciones
+### ⚡ Especialidades y Flujo de Trabajo
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Scott-Ramirez&theme=tokyo-night&bg_color=05070e&color=06b6d4&line=10b981&point=06b6d4&area=true&hide_border=true" width="100%" alt="Gráfico Dinámico de Contribuciones" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&width=760&height=100&lines=Servidores+Linux+Ubuntu+%2B+Docker+Compose;Microservicios+Backend+con+NestJS+%26+TypeScript;Automatizaciones+y+Backups+con+Python;T%C3%BAneles+Cifrados+con+Cloudflare+Zero+Trust" alt="Terminal Typing" />
 </div>
 
 ---
 
-### 📊 Métricas de GitHub
+### 🏆 Trofeos y Logros de GitHub
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Scott-Ramirez&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
 
-  <!-- Racha Actual -->
+---
+
+### 📊 Métricas de Actividad
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Scott-Ramirez&theme=tokyonight&hide_border=true&background=05070e&ring=06b6d4&fire=10b981&currStreakLabel=06b6d4" alt="GitHub Streak" />
-
 </div>
 
 ---
