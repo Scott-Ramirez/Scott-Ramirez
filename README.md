@@ -10,15 +10,15 @@
   <!-- Botones de Enlace Rápido -->
   <p align="center">
     <a href="https://mi-portafolio.scott-ramirez.workers.dev" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Portafolio-Ver_Web_En_Vivo-06b6d4?style=for-the-badge&logoColor=white" alt="Live Portfolio" />
+      <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portafolio-Ver_Web_En_Vivo-06b6d4?style=for-the-badge&logoColor=white" alt="Live Portfolio" />
     </a>
     <a href="https://wa.me/51920569220" target="_blank">
-      <img src="https://img.shields.io/badge/💬_WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+      <img src="https://img.shields.io/badge/%F0%9F%92%AC_WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
     <a href="mailto:anthonyscottramirez@gmail.com">
-      <img src="https://img.shields.io/badge/✉️_Email-Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Email-Escr%C3%ADbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <img src="https://img.shields.io/badge/📍_Ubicación-Perú-1e293b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Perú" />
+    <img src="https://img.shields.io/badge/%F0%9F%93%8D_Ubicaci%C3%B3n-Per%C3%BA-1e293b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Perú" />
   </p>
 
 </div>
@@ -96,6 +96,14 @@
 
 ---
 
+### 🐍 Snake de Contribuciones
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Scott-Ramirez/Scott-Ramirez/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</div>
+
+---
+
 ### 📊 Métricas de GitHub
 
 <div align="center">
@@ -109,6 +117,10 @@
       </td>
     </tr>
   </table>
+
+  <br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Scott-Ramirez&theme=tokyonight&hide_border=true&background=05070e&ring=06b6d4&fire=10b981&currStreakLabel=06b6d4" alt="GitHub Streak" />
 </div>
 
 ---
@@ -118,7 +130,7 @@
 <div align="center">
 
   <a href="https://mi-portafolio.scott-ramirez.workers.dev" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portafolio_Web-Visitar-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio Web" />
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portafolio_Web-Visitar-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio Web" />
   </a>
   &nbsp;
   <a href="https://wa.me/51920569220" target="_blank">
